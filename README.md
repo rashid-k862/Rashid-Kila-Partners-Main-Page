@@ -2,7 +2,7 @@
 
 # first-of-the-first
 
-This is a [Rashid Kila & Partners](https://rashid-kila-partners.business.site/?utm_source=gmb&utm_medium=referral) Game Designed and Deloped through
+This is a [Rashid Kila & Partners](https://rashid-kila-partners.business.site/?utm_source=gmb&utm_medium=referral) Game Designed and Developed through
 [Github](https://github.com/) and [CodeSandbox](https://codesandbox.io/signin?continue=/dashboard/home)
 
 Access the game through the [`Game Portal`](https://clf38i.sse.codesandbox.io/)
